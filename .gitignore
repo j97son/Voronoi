@@ -32,5 +32,6 @@
 *.app
 
 # Project
-images/*.png
+*.png
 build/*
+.vscode/
